@@ -1,4 +1,4 @@
-package com.zishan.springsecuritywithjwt;
+package com.zishan.springsecuritywithjwt.user;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
